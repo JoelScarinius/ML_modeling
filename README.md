@@ -1,9 +1,22 @@
-In this assignment, you work in the same groups you already are divided into. You need to define at least one task based on each of the exercises 4, 5 and 10. All together three tasks. You have to apply the tasks on the same dataset that you used in Assignment 1. 
+# Assignment 1
 
-You will hand in the assignment through a Jupyter notebook, along with your environment and the dataset you picked, both zipped together and submitted as one file. Please name your file so that it contains your group number. It is important that you clearly state the tasks you are performing on the dataset as questions or something similar in the notebook before you do the operations on the data. Also make sure to document your solutions and your thinking so that it can easily be followed. If you fail to do these things, you may not pass this assignment.
+## 🛠️ Installation Guide
 
-The deadline of this assignment is on April 26, 2025 to get bonus points, or before the exam (in which case no bonus points will be awarded).
+Follow the steps below to set up your environment for this assignment.
 
-Re-submission 1 is by the end of week 33, 2025.
+### 1. Install Python
 
-Re-submission 2 is by the end of week 2, 2026.
+Ensure that you have **Python 3.7** or higher installed on your system.  
+You can download Python from the [official Python website](https://www.python.org/downloads/).
+
+### 2. Set Up Jupyter Notebook and the environment
+
+Jupyter Notebook is required to run and interact with the assignment files.
+
+Install all the necessary Python packages listed in the `requirements.txt` file with the following command:
+``` bash
+pip install -r requirements.txt 
+```
+
+### 3. Go to the `master.ipynb` file where the entire assignment is located.
+All the tasks and information will be found in this file. 
